@@ -1,0 +1,11 @@
+{
+  "name": "jenkinswithnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all-object-keys": "^1.1.1",
+    "json2csv": "^4.5.1"
+  }
+}
